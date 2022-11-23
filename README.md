@@ -5,19 +5,19 @@
 
 For this project the goal was to show total weekly fares for each city type. We wanted to explore how data differs by city type and if we can infer any insight into affordability for various cityscapes. 
 
-Our source data is found in the Resource folder: [city_data.csv](INSERT LINK) contains rows of  the city name, the number of drivers in that city, and the type of city (Rural, Urban, Suburban); [ride_data.csv](INSERT LINK) contains rows of info for each ride taken - the city, date, fare for the ride, and the individual ride id. Each data set is from January to early May of 2019.
+Our source data is found in the Resource folder: [city_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/city_data.csv) contains rows of  the city name, the number of drivers in that city, and the type of city (Rural, Urban, Suburban); [ride_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/ride_data.csv) contains rows of info for each ride taken - the city, date, fare for the ride, and the individual ride id. Each data set is from January to early May of 2019.
 
 ## Results 
 
-For general reference of all the data given, see table "[Challenge_Summary_All_Data](INSERT IMAGE LINK)". There were a total of 2,375 rides between January and March 2019, where the avereage ride fare was $26.75. Fares ranged from $4.05 to $58.56. 
+For general reference of all the data given, see table "[Challenge_Summary_All_Data](https://github.com/ahualoh/PyBer_Analysis/blob/main/Analysis/Challenge_Summary_All_Data.png)". There were a total of 2,375 rides between January and March 2019, where the avereage ride fare was $26.75. Fares ranged from $4.05 to $58.56. 
 
-The two data sets were merged in to one table "[Challenge_Summary_by_City](INSERT IMAGE LINK)", which aggregated  total rides, total drivers, average fare per ride & driver, and total fare by city type.
+The two data sets were merged in to one table "[Challenge_Summary_by_City](https://github.com/ahualoh/PyBer_Analysis/blob/main/Analysis/Challenge_Summary_by_City.png)", which aggregated  total rides, total drivers, average fare per ride & driver, and total fare by city type.
 
 (It should be noted that Average fare per driver is NOT what each driver received, but how ride fares (cost) vary on the driver pool for each city type.) 
 
 We can see that that most rides were taken in Urban cities (more than 50% of the 2375 rided we analyzed), and the least was in Rural cities (less than 5%). Driver counts (2973 total) for each city type differ more, with about 80% of drivers being in Urban cities, and less than 2% of drivers in Rural cities. Average fares per ride are inverse, with the greatest fare in Rural, and the lesser fares in Urban cities. 
 
-As we can see in "[Challenge_fare_summary](INSERT IMAGE LINK)" There are no dramatic swings in fares in the period we analyzed within each city type's trendlines, but you can see the stark difference in the fares between city types. In general, fares increased steadily through the entire analyzed time period, with a overal spike starting around late February and a platue as we approach March. 
+As we can see in "[Challenge_fare_summary](https://github.com/ahualoh/PyBer_Analysis/blob/main/Analysis/Challenge_fare_summary.png)" There are no dramatic swings in fares in the period we analyzed within each city type's trendlines, but you can see the stark difference in the fares between city types. In general, fares increased steadily through the entire analyzed time period, with a overal spike starting around late February and a platue as we approach March. 
 
 ## Summary
 
