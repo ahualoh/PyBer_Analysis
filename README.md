@@ -7,9 +7,9 @@ For this project the goal was to show total weekly fares for each city type. We 
 
 Our source data are the following: 
 
-[city_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/city_data.csv) ![city_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/city_data.csv) contains rows of  the city name, the number of drivers in that city, and the type of city (Rural, Urban, Suburban). 
+[city_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/city_data.csv) contains rows of  the city name, the number of drivers in that city, and the type of city (Rural, Urban, Suburban). 
 
-[ride_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/ride_data.csv) ![ride_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/ride_data.csv) contains rows of info for each ride taken - the city, date, fare for the ride, and the individual ride id. Each data set is from January to early May of 2019.
+[ride_data.csv](https://github.com/ahualoh/PyBer_Analysis/blob/main/Resources/ride_data.csv) contains rows of info for each ride taken - the city, date, fare for the ride, and the individual ride id. Each data set is from January to early May of 2019.
 
 
 
